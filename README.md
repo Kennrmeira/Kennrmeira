@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou Kenai 👋
 
-<!--
-**Kennrmeira/Kennrmeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-end focado na criação de experiências digitais performáticas, integração de APIs e implementação de tracking para análise de dados.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento web, analytics e marketing technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologias
+
+HTML  
+CSS  
+JavaScript  
+React  
+Next.js  
+TypeScript  
+Git  
+SEO  
+Web Analytics  
+
+---
+
+## Projetos em destaque
+
+📌 Marketing Dashboard  
+Dashboard desenvolvido com React que consome dados de API.
+
+📌 Conversion Landing Page  
+Landing page focada em conversão e tracking de eventos.
+
+📌 Next Company Website  
+Website institucional construído com Next.js e boas práticas de SEO.
+
+---
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/kenai-richar-meira-952b511b4/ 
+Email: kenameira@gmail.com
