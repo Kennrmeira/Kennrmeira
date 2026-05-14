@@ -15,7 +15,7 @@ React
 Next.js  
 TypeScript  
 Git  
-SEO  
+SQL
 Web Analytics  
 
 ---
